@@ -17,7 +17,7 @@ connectDb();
 
 // Define your routes here
 const routes = require("./routes/routes");
-app.use("/api/example", routes);
+app.use("/api/user", routes);
 
 // Start the server
 app.listen(config.port, () => {

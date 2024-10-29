@@ -1,3 +1,5 @@
+> **_NOTE:_** To be able to use this project, you need to have Mongo added as a side container
+
 # Hello Mongo
 
 Node, Mongo template
